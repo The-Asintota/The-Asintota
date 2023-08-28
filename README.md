@@ -1,13 +1,15 @@
 <h1 align="center">Hola 👋, mi nombre es Carlos Andres Aguirre</h1>
 <h3 align="center">Me apasiona la programación, especialmente el desarrollo backend, ya que me permite sumergirme en el intrincado mundo de los servidores, las bases de datos y las API. Me fascina la forma en que puedo utilizar mi habilidad para el pensamiento abstracto para conceptualizar y desarrollar soluciones efectivas que impulsan la funcionalidad y proporcionan una experiencia de usuario sin problemas. El desarrollo backend es como un rompecabezas desafiante que siempre estoy emocionado de resolver, y es esta complejidad y la constante necesidad de innovación lo que realmente me atrae de este campo</h3>
 
-- 💬 Puedes preguntarme acerca de **Django, Django REST, Python**
+- 💬 Puedes preguntarme acerca de: **Django, Django REST, Python**
 
-- 📫 Como contactarme **aguizandre.2803@gmail.com**
+- 📫 Como contactarme: **aguizandre.2803@gmail.com**
+  
+- 👯 Estoy colaborando en los siguientes proyectos: [Care Yours Pets](https://github.com/Care-Yours-Pets), [Inmobiliaria Bonpland](https://github.com/Dev-Hive-DH)
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/carlos-andres-aguirre-ariza-447bb323b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-andres-aguirre-ariza-447bb323b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/carlos-andres-aguirre-ariza-447bb323b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-andres-aguirre-ariza-447bb323b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y tecnologías:</h3>
