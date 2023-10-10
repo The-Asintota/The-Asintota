@@ -5,7 +5,7 @@
 
 - 📫 Como contactarme: **aguizandre.2803@gmail.com**
   
-- 👯 Estoy colaborando en los siguientes proyectos: [Care Yours Pets](https://github.com/Care-Yours-Pets), [Inmobiliaria Bonpland]([https://github.com/Dev-Hive-DH](https://github.com/Dev-Hive-DH/.github/blob/main/projects/inmobiliariaa_bonpland.md))
+- 👯 Estoy colaborando en los siguientes proyectos: [Care Yours Pets](https://github.com/Care-Yours-Pets), [Inmobiliaria Bonpland](https://github.com/Dev-Hive-DH/.github/blob/main/projects/inmobiliariaa_bonpland.md)
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
