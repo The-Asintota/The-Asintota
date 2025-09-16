@@ -1,16 +1,98 @@
-<h1 align="center">Hola 👋, mi nombre es Carlos Andres Aguirre</h1>
-<h3 align="center">Me apasiona la programación, especialmente el desarrollo backend, ya que me permite sumergirme en el intrincado mundo de los servidores, las bases de datos y las API. Me fascina la forma en que puedo utilizar mi habilidad para el pensamiento abstracto para conceptualizar y desarrollar soluciones efectivas que impulsan la funcionalidad y proporcionan una experiencia de usuario sin problemas. El desarrollo backend es como un rompecabezas desafiante que siempre estoy emocionado de resolver, y es esta complejidad y la constante necesidad de innovación lo que realmente me atrae de este campo</h3>
+# 💫 Sobre mí
+Desarrollador web con experiencia en la creación de aplicaciones integrales, con mayor especialización en el desarrollo backend y conocimientos sólidos en frontend. Enfocado en diseñar soluciones escalables y eficientes, aporto experiencia en documentación, despliegues con Docker y la aplicación de buenas prácticas de desarrollo. Destaco por mi capacidad de análisis, resolución de problemas y colaboración en equipos multidisciplinarios, siempre con el objetivo de aportar valor y garantizar la calidad en cada proyecto.
 
-- 💬 Puedes preguntarme acerca de: **Django, Django REST, Python**
-
-- 📫 Como contactarme: **aguizandre.2803@gmail.com**
-  
-- 👯 Estoy colaborando en los siguientes proyectos: [Care Yours Pets](https://github.com/Care-Yours-Pets), [Inmobiliaria Bonpland](https://github.com/Dev-Hive-DH/.github/blob/main/projects/inmobiliariaa_bonpland.md)
-
-<h3 align="left">Conectate conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/carlos-andres-aguirre-ariza-447bb323b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-andres-aguirre-ariza-447bb323b/" height="30" width="40" /></a>
+<br>
+<p style="display: inline-block;" align="center">
+  <a href="https://www.linkedin.com/in/carlosaguirredev/" target="blank">
+    <img 
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      title="LinkedIn"
+      height="40px"
+      width="50px"
+    /></a>
+  <a href="https://carlos-aguirre.netlify.app/" target="blank">
+    <img 
+      align="center"
+      src="https://res.cloudinary.com/ddujnmr9n/image/upload/v1758058628/www_rfy19i.png"
+      alt="Portafolio"
+      title="Portafolio"
+      height="40px"
+      width="40px"
+    /></a>
 </p>
 
-<h3 align="left">Lenguajes y tecnologías:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 💻 Tecnologías
+<div>
+  <p style="display: inline-block;" align="center">
+    <kbd>
+      <kbd>Lenguajes de programación</kbd>
+      <br>
+      <br>
+      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
+      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
+    </kbd>
+    <kbd>
+      <kbd>Back-end</kbd>
+      <br>
+      <br>
+      <img width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" alt="django" title="Django"/>
+      <img width="60px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" title="REST API"/>
+	    <img width="55px" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
+    </kbd>
+    <kbd>
+      <kbd>Front-end</kbd>
+      <br>
+      <br>
+      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML"/> 
+      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" title="CSS"/>  
+      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="Reactjs"/>
+    </kbd>
+    <kbd>
+      <kbd>Base de datos</kbd>
+      <br>
+      <br>
+      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" title="Postgres SQL"/>
+      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="Mongo DB"/>
+    </kbd>
+    <br>
+    <br>
+    <kbd>
+      <kbd>Sistema operativo, redes e implementación</kbd>
+      <br>
+      <br>
+	    <img width="60px" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
+	    <img width="60px" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
+      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="Git" />
+      <img width="60px" src="https://res.cloudinary.com/ddujnmr9n/image/upload/v1758058738/github_loeqbb.png" alt="github" title="GitHub" />
+      <img width="60px" src="https://res.cloudinary.com/ddujnmr9n/image/upload/v1758058893/gitlab_original_logo_icon_146503_mcqyr5.svg" alt="gitlab" title="GitLab" />
+      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" title="Docker"/>
+    </kbd>
+    <kbd>
+      <kbd>Herramientas</kbd>
+      <br>
+      <br>
+      <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
+      <img width="60px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
+  </kbd>
+  </p>
+</div>
+
+# 🛠️ Proyectos
+<div>
+  <p style="display: inline-block;" align="center">
+    <a href="https://github.com/The-Asintota/backend-inmobiliaria">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=The-Asintota&repo=backend-inmobiliaria" alt="Proyecto"/></a>
+    <a href="https://github.com/The-Asintota/workflow">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=The-Asintota&repo=workflow" alt="Proyecto"/></a>
+  </p>
+</div>
+
+# 📊 Estadística de GitHub
+<div>
+  <p style="display: inline-block;" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=The-Asintota&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Proyecto"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=The-Asintota&theme=dark&hide_border=false" alt="Proyecto"/>
+  </p>
+</div>
